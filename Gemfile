@@ -24,7 +24,7 @@ group :test do
     gem "activerecord-jdbcmysql-adapter", :require => false
     gem "activerecord-jdbcpostgresql-adapter", :require => false
     gem "activerecord-jdbcsqlite3-adapter", :require => false
-    gem "forem-kramdown", :github => "phlipper/forem-kramdown", :branch => "master"
+    gem "forem-kramdown", :github => "nicopino73/forem-kramdown", :branch => "master"
   end
 end
 
